@@ -5,6 +5,10 @@ nuevas cosas.
 
 Master 1
 
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 1
+>>>>>>> Experimento 1
 
 Mañana nos enfocaremos en su vida laboral.
